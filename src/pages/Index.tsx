@@ -95,7 +95,7 @@ const Index = () => {
       <nav className="sticky top-0 z-50 bg-white/90 backdrop-blur-sm border-b">
         <div className="container mx-auto px-4 py-4">
           <div className="flex items-center justify-between">
-            <h1 className="text-3xl font-bold text-primary">Вязание с душой</h1>
+            <h1 className="text-3xl font-bold text-primary">Что вижу, то вяжу</h1>
             <div className="hidden md:flex gap-6">
               {['home', 'workshops', 'about', 'shop', 'blog', 'contact'].map((section) => (
                 <button
